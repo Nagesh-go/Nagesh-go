@@ -37,14 +37,8 @@
 
 ## 📂 Featured projects
 
-| Project | What it does | Tech |
-
 
 ## 📜 Certifications
 - 
 
 ## 🌱 Currently
-- 
-
-## 📫 Let's connect
-Open to opportunities. Reach me on [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) or at YOUR-EMAIL@gmail.com.
